@@ -24,7 +24,7 @@ where `type_of_experiment` can be baseline (the ones presented in the paper) or 
 
 
 ### Cross-collection external validation
-We did not perform cross-collection experiment on the PCA-compressed features as that experiment did not look very promising, so the results are only reported for the baseline models. The structure of this section is:
+We did not perform cross-collection evaluations on the PCA-compressed features as that experiment did not look very promising, so the results are only reported for the baseline models. The structure of this section is:
 
 `<n_embeddings>/<embedding_types>`
 
