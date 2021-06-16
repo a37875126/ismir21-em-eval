@@ -1,0 +1,268 @@
+{
+    "genre_dortmund": {
+        "Accuracy Micro": {
+            "mean": 0.5939347733272291
+        },
+        "Accuracy Macro": {
+            "mean": 0.5941870718443063
+        },
+        "Accuracy": {
+            "std": 0.017018391093570673
+        },
+        "ROC AUC": {
+            "mean": NaN,
+            "std": NaN
+        },
+        "PR AUC": {
+            "mean": NaN,
+            "std": NaN
+        }
+    },
+    "genre_tzanetakis": {
+        "Accuracy Micro": {
+            "mean": 0.8705391180903075
+        },
+        "Accuracy Macro": {
+            "mean": 0.8706764091601553
+        },
+        "Accuracy": {
+            "std": 0.01235028574530342
+        },
+        "ROC AUC": {
+            "mean": NaN,
+            "std": NaN
+        },
+        "PR AUC": {
+            "mean": NaN,
+            "std": NaN
+        }
+    },
+    "genre_rosamerica": {
+        "Accuracy Micro": {
+            "mean": 0.9428030303030304
+        },
+        "Accuracy Macro": {
+            "mean": 0.9429545454545455
+        },
+        "Accuracy": {
+            "std": 0.01591558309091964
+        },
+        "ROC AUC": {
+            "mean": NaN,
+            "std": NaN
+        },
+        "PR AUC": {
+            "mean": NaN,
+            "std": NaN
+        }
+    },
+    "voice_instrumental": {
+        "Accuracy Micro": {
+            "mean": 0.985
+        },
+        "Accuracy Macro": {
+            "mean": 0.985
+        },
+        "Accuracy": {
+            "std": 0.005477225575051666
+        },
+        "ROC AUC": {
+            "mean": NaN,
+            "std": NaN
+        },
+        "PR AUC": {
+            "mean": NaN,
+            "std": NaN
+        }
+    },
+    "tonal_atonal": {
+        "Accuracy Micro": {
+            "mean": 0.9590661641541038
+        },
+        "Accuracy Macro": {
+            "mean": 0.9587485790071998
+        },
+        "Accuracy": {
+            "std": 0.031938566363859854
+        },
+        "ROC AUC": {
+            "mean": NaN,
+            "std": NaN
+        },
+        "PR AUC": {
+            "mean": NaN,
+            "std": NaN
+        }
+    },
+    "danceability": {
+        "Accuracy Micro": {
+            "mean": 0.9448302469135802
+        },
+        "Accuracy Macro": {
+            "mean": 0.9447334106056214
+        },
+        "Accuracy": {
+            "std": 0.01972729946140343
+        },
+        "ROC AUC": {
+            "mean": NaN,
+            "std": NaN
+        },
+        "PR AUC": {
+            "mean": NaN,
+            "std": NaN
+        }
+    },
+    "mood_acoustic": {
+        "Accuracy Micro": {
+            "mean": 0.9378234340001546
+        },
+        "Accuracy Macro": {
+            "mean": 0.9377207792207791
+        },
+        "Accuracy": {
+            "std": 0.015891207665339618
+        },
+        "ROC AUC": {
+            "mean": NaN,
+            "std": NaN
+        },
+        "PR AUC": {
+            "mean": NaN,
+            "std": NaN
+        }
+    },
+    "mood_aggressive": {
+        "Accuracy Micro": {
+            "mean": 0.9853204439670604
+        },
+        "Accuracy Macro": {
+            "mean": 0.9854131054131055
+        },
+        "Accuracy": {
+            "std": 0.00734280397096957
+        },
+        "ROC AUC": {
+            "mean": NaN,
+            "std": NaN
+        },
+        "PR AUC": {
+            "mean": NaN,
+            "std": NaN
+        }
+    },
+    "mood_electronic": {
+        "Accuracy Micro": {
+            "mean": 0.9428461142563047
+        },
+        "Accuracy Macro": {
+            "mean": 0.942754691030553
+        },
+        "Accuracy": {
+            "std": 0.02395870970106673
+        },
+        "ROC AUC": {
+            "mean": NaN,
+            "std": NaN
+        },
+        "PR AUC": {
+            "mean": NaN,
+            "std": NaN
+        }
+    },
+    "mood_happy": {
+        "Accuracy Micro": {
+            "mean": 0.8620770676691729
+        },
+        "Accuracy Macro": {
+            "mean": 0.8627856040899518
+        },
+        "Accuracy": {
+            "std": 0.06672727455285372
+        },
+        "ROC AUC": {
+            "mean": NaN,
+            "std": NaN
+        },
+        "PR AUC": {
+            "mean": NaN,
+            "std": NaN
+        }
+    },
+    "mood_party": {
+        "Accuracy Micro": {
+            "mean": 0.915050913656019
+        },
+        "Accuracy Macro": {
+            "mean": 0.9153272653272655
+        },
+        "Accuracy": {
+            "std": 0.02242092674234075
+        },
+        "ROC AUC": {
+            "mean": NaN,
+            "std": NaN
+        },
+        "PR AUC": {
+            "mean": NaN,
+            "std": NaN
+        }
+    },
+    "mood_relaxed": {
+        "Accuracy Micro": {
+            "mean": 0.8956719256233272
+        },
+        "Accuracy Macro": {
+            "mean": 0.8957681159420291
+        },
+        "Accuracy": {
+            "std": 0.04030355308796469
+        },
+        "ROC AUC": {
+            "mean": NaN,
+            "std": NaN
+        },
+        "PR AUC": {
+            "mean": NaN,
+            "std": NaN
+        }
+    },
+    "mood_sad": {
+        "Accuracy Micro": {
+            "mean": 0.8868159203980099
+        },
+        "Accuracy Macro": {
+            "mean": 0.8869493177387915
+        },
+        "Accuracy": {
+            "std": 0.026727705355607007
+        },
+        "ROC AUC": {
+            "mean": NaN,
+            "std": NaN
+        },
+        "PR AUC": {
+            "mean": NaN,
+            "std": NaN
+        }
+    },
+    "gender": {
+        "Accuracy Micro": {
+            "mean": 0.8478023493389317
+        },
+        "Accuracy Macro": {
+            "mean": 0.8477676086822074
+        },
+        "Accuracy": {
+            "std": 0.02302178959636845
+        },
+        "ROC AUC": {
+            "mean": NaN,
+            "std": NaN
+        },
+        "PR AUC": {
+            "mean": NaN,
+            "std": NaN
+        }
+    }
+}

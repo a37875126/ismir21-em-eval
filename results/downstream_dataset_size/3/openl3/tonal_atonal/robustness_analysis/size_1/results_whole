@@ -1,0 +1,18 @@
+
+ROC AUC: nan
+StD: nan
+PR AUC: nan
+StD: nan
+Acc Micro: 0.6127534222838329
+Acc Macro: 0.6116710875331565
+StD: 0.11510652790598459
+Report:
+              precision    recall  f1-score   support
+
+           0       0.70      0.33      0.45       145
+           1       0.65      0.89      0.75       199
+
+    accuracy                           0.66       344
+   macro avg       0.67      0.61      0.60       344
+weighted avg       0.67      0.66      0.62       344
+

@@ -1,0 +1,72 @@
+{
+    "genre_dortmund_classifier": {
+        "raw_accuracy": 0.8579000000000001,
+        "normalised_accuracy": 0.5492,
+        "normalised_f1-score": 0.8530270601188432
+    },
+    "genre_tzanetakis_classifier": {
+        "raw_accuracy": 0.6654000000000001,
+        "normalised_accuracy": 0.7404000000000001,
+        "normalised_f1-score": 0.6813678650299387
+    },
+    "genre_rosamerica_classifier": {
+        "raw_accuracy": 0.8179000000000001,
+        "normalised_accuracy": 0.8015000000000001,
+        "normalised_f1-score": 0.8249188561169676
+    },
+    "voice_instrumental_classifier": {
+        "raw_accuracy": 0.8486,
+        "normalised_accuracy": 0.8736,
+        "normalised_f1-score": 0.855665819971583
+    },
+    "tonal_atonal_classifier": {
+        "raw_accuracy": 0.31739999999999996,
+        "normalised_accuracy": 0.638,
+        "normalised_f1-score": 0.41942101846020174
+    },
+    "danceability_classifier": {
+        "raw_accuracy": 0.6584,
+        "normalised_accuracy": 0.7034,
+        "normalised_f1-score": 0.6562559865261052
+    },
+    "mood_acoustic_classifier": {
+        "raw_accuracy": 0.8941,
+        "normalised_accuracy": 0.8748999999999999,
+        "normalised_f1-score": 0.8923165865383542
+    },
+    "mood_aggressive_classifier": {
+        "raw_accuracy": 0.9467,
+        "normalised_accuracy": 0.8527,
+        "normalised_f1-score": 0.9463349718400408
+    },
+    "mood_electronic_classifier": {
+        "raw_accuracy": 0.9034,
+        "normalised_accuracy": 0.8967,
+        "normalised_f1-score": 0.9026639959212375
+    },
+    "mood_happy_classifier": {
+        "raw_accuracy": 0.789,
+        "normalised_accuracy": 0.7012,
+        "normalised_f1-score": 0.7829272830166725
+    },
+    "mood_party_classifier": {
+        "raw_accuracy": 0.9373,
+        "normalised_accuracy": 0.9194,
+        "normalised_f1-score": 0.9422478590136945
+    },
+    "mood_relaxed_classifier": {
+        "raw_accuracy": 0.8271999999999999,
+        "normalised_accuracy": 0.8495999999999999,
+        "normalised_f1-score": 0.82950280833118
+    },
+    "mood_sad_classifier": {
+        "raw_accuracy": 0.7342,
+        "normalised_accuracy": 0.7395999999999999,
+        "normalised_f1-score": 0.7671205336644438
+    },
+    "gender_classifier": {
+        "raw_accuracy": 0.9331,
+        "normalised_accuracy": 0.8422,
+        "normalised_f1-score": 0.932498533212819
+    }
+}
